@@ -12,6 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@eduardosmarcal/webcam-easy": "^2.0.3",
         "@nintex/form-plugin-contract": "^1.0.0-beta.2",
         "lit": "^2.6.1"
     },
